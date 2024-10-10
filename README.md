@@ -15,7 +15,7 @@ This project is a PDF to Podcast Script Generator that uses OpenRouter's API to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/podcast_simulator.git
+   git clone https://github.com/dodyw/podcast_simulator.git
    cd podcast_simulator
    ```
 
@@ -39,7 +39,7 @@ This project is a PDF to Podcast Script Generator that uses OpenRouter's API to 
 
 1. Run the application:
    ```bash
-   python podcast_simulator.py
+   python app.py
    ```
 
 2. Open your web browser and go to the URL provided by Gradio.
